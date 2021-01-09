@@ -24,6 +24,10 @@ topics:
     theory_id: 3614
   - title: IDE
     theory_id: 10996
+  - title: Write, compile, and run
+    theory_id: 3739
+  - title: JVM, JRE, and JDK
+    theory_id: 3499
   - title: What is an exception
     theory_id: 3497
   - title: Hierarchy of exceptions
@@ -36,6 +40,8 @@ topics:
     theory_id: 8977
   - title: Parameters and options
     theory_id: 9746
+  - title: Running programs on your computer
+    theory_id: 3746
   - title: Introduction to Java
     theory_id: 3500
   - title: Basic literals
@@ -104,10 +110,6 @@ topics:
     theory_id: 5819
   - title: EduTools
     theory_id: 5839
-  - title: Write, compile, and run
-    theory_id: 3739
-  - title: JVM, JRE, and JDK
-    theory_id: 3499
   - title: Errors in programs
     theory_id: 3536
   - title: Defining classes
@@ -128,8 +130,6 @@ topics:
     theory_id: 4910
   - title: Inheritance
     theory_id: 3583
-  - title: Running programs on your computer
-    theory_id: 3746
   1:
   - title: Files
     theory_id: 3635
@@ -143,8 +143,6 @@ topics:
     theory_id: 4311
   - title: Command-line arguments
     theory_id: 3566
-  - title: IntelliJ Run Configurations
-    theory_id: 10630
   - title: Gradle basics
     theory_id: 5075
   - title: Basic project with Gradle
@@ -153,6 +151,8 @@ topics:
     theory_id: 7917
   - title: Dependency management
     theory_id: 5076
+  - title: IntelliJ Run Configurations
+    theory_id: 10630
   2:
   - title: Files
     theory_id: 6989
@@ -178,10 +178,6 @@ topics:
     theory_id: 9067
   - title: Basic CREATE statement
     theory_id: 9084
-  - title: Alter table
-    theory_id: 9579
-  - title: Consistency constraints
-    theory_id: 9587
   - title: Basic INSERT statement
     theory_id: 9059
   - title: Connecting to a database with JDBC
@@ -195,3 +191,7 @@ topics:
     theory_id: 9075
   - title: Updating selected rows
     theory_id: 9603
+  - title: JDBC Prepared Statements
+    theory_id: 11014
+  - title: JDBC Transactions
+    theory_id: 11346
